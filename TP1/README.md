@@ -4,7 +4,7 @@ TP1 - Somador On Off
 Rodrigo Gonçalves Dantas  a104009 
 2025-02-13
 
-![Autor]()
+![Autor](https://github.com/Rodrigodantas04/PL2025-A104009/blob/main/TP1/WhatsApp%20Image%202025-02-13%20at%2022.13.00.jpeg)
 
 # Objetivo
 Criar um programa em Pyrhon - Somador on/off , que some todas as sequenciasde digitos que encontre num texto. Mas com as seguintes indicações:
