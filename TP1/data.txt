@@ -1,0 +1,5 @@
+on 5 10 off 20 on 3 7 =
+on 50 off 10 on 2 =
+10 20 on 30 off 40 on 5 =
+wqewqfq wq232 = 
+21
