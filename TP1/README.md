@@ -16,9 +16,12 @@ Sempre que encontrar o caráter "=", o resultado da soma é colocado na saída.
 O programa lê um ficheiro de texto e processa digitos com base no estado "ON" ou "OFF", sem usar módulos externos. Quando o estado está "ON", os digitos encontrados são somados; quando está "OFF", são ignorados. O estado alterna ao encontrar "On" ou "Off", e sempre que aparece "=", a soma parcial é impressa. O código mantém o estado global ao longo do ficheiro, garantindo que a soma seja acumulada corretamente. Caso o ficheiro não exista, é gerado um erro. No final, a soma total dos números processados enquanto o estado esteve "ON" é apresentada.
 
 # Resultados
-Resultado parcial: 25
-Resultado parcial: 77
-Resultado parcial: 142
-Resultado parcial: 374
+Resultado Atual: 25
+
+Resultado Atual: 77
+
+Resultado Atual: 142
+
+Resultado Atual: 374
 
 Soma total no ficheiro: 395
