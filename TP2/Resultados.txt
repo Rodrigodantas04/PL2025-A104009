@@ -1,6 +1,6 @@
-#Resultados
-Quando escolhido a opção :
+RESULTADOS
 
+Quando escolhido a opção :
 1 - Listar compositores ordenados alfabeticamente:
 
 Alessandro Stradella
@@ -117,7 +117,6 @@ Wilhelmine of Prussia
 
 
 Agora, para a opção :
-
 2 - Distribuição das obras por período:
 
 Barroco: 26 obras
@@ -131,7 +130,6 @@ Século XX: 18 obras
 
 
 Por fim , a opção:
-
 3 - Dicionário de títulos por período:
 
 Barroco:
