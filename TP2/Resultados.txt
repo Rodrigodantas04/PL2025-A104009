@@ -1,4 +1,4 @@
-Resultados
+#Resultados
 Quando escolhido a opção :
 
 1 - Listar compositores ordenados alfabeticamente:
