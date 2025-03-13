@@ -1,0 +1,32 @@
+[
+    {
+        "cod": "X01",
+        "nome": "Água Mineral 500ml",
+        "quant": 5,
+        "preco": 0.75
+    },
+    {
+        "cod": "Y22",
+        "nome": "Refrigerante Lata 350ml",
+        "quant": 3,
+        "preco": 1.3
+    },
+    {
+        "cod": "Z45",
+        "nome": "Chá Verde Gelado 500ml",
+        "quant": 10,
+        "preco": 1.1
+    },
+    {
+        "cod": "W78",
+        "nome": "Biscoito Recheado",
+        "quant": 12,
+        "preco": 0.6
+    },
+    {
+        "cod": "V99",
+        "nome": "Snacks de Milho 60g",
+        "quant": 6,
+        "preco": 0.9
+    }
+]
